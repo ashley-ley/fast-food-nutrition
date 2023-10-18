@@ -1,7 +1,7 @@
 # Fast Food Nutrition Analysis 
 
 ## Overview
-This dataset, originally sourced from Kaggle, provides nutrition information for five different chain restaurants, including Burger King, Wendy's, KFC, Taco Bell, and Pizza Hut.  The data is located on Sheet 1 of the Excel document. Please note that the dataset was last updated on October 16, 2023, and may not reflect the most current menu items. The data is categorized into three meal types: Breakfast, Lunch/Dinner, and Drinks/Desserts. For each meal type, there are several metrics, including average calories, total fat, sodium, sugar, and grams of protein per menu item. The dataset is in Excel format, and for the analysis, Microsoft Excel was used.
+This dataset, originally sourced from Kaggle, provides nutrition information for six different chain restaurants, including McDonald's, Burger King, Wendy's, KFC, Taco Bell, and Pizza Hut.  The data is located on Sheet 1 of the Excel document. Please note that the dataset was last updated on October 16, 2023, and may not reflect the most current menu items. The data is categorized into three meal types: Breakfast, Lunch/Dinner, and Drinks/Desserts. For each meal type, there are several metrics, including average calories, total fat, sodium, sugar, and grams of protein per menu item. The dataset is in Excel format, and for the analysis, Microsoft Excel was used.
 This analysis is intended for those who seek a quick bite to eat while getting a fix to whatever craving or food they are wanting to have. This data analysis will help users decide if they want something sweet (sugar) or salty (sodium);  a fatty item (total fat) or something filled with protein (protein). The averages of these attributes have been computed for each restaurant.
 
 ## Data Structure
