@@ -26,7 +26,10 @@ Here's how you can interpret and use this dataset:
 + Burger King’s menu items have an average of 28 grams of protein per lunch/dinner menu item, amounting to 61% and 50% of the amount of protein needed daily for women and men respectively. 
 + McDonald’s breakfast has an average of 437 calories, making that the best breakfast choice for those who are looking for low calorie meals. However, these meal items still account for 22% and 17% of the daily recommended daily for women and men respectively.
 + Although Taco Bell has some breakfast menu items, they were not included in this dataset. KFC and Pizza Hut do not have breakfast so no data was available there. 
-+ An important thing to note about Pizza Hut is the data is broken down by slice. The average number of calories found is broken down by slice, not by pizza. The average pizza slice has 253 calories. 
++ An important thing to note about Pizza Hut is the data is broken down by slice. The average number of calories found is broken down by slice, not by pizza. The average pizza slice has 253 calories.
+
+## Tableau Visualizations 
+For additional visualizations, please visit my [Fast Food Nutrition Analysis Page](https://public.tableau.com/app/profile/ashley.ley/viz/FastFoodNutritionAnalysis/AverageSugarvs_CalorieIntakePerMenuItem). 
 
 ## Dataset Integrity
 Please note that while efforts have been made to provide accurate and up-to-date information, the dataset might not reflect the most current menu items or nutritional data. It's essential to verify the accuracy of the data and refer to official sources for the latest nutritional information from the fast-food chains.
