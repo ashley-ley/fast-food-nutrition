@@ -5,6 +5,14 @@ This dataset, originally sourced from Kaggle, provides nutrition information for
 This analysis is intended for those who seek a quick bite to eat while getting a fix to whatever craving or food they are wanting to have. This data analysis will help users decide if they want something sweet (sugar) or salty (sodium);  a fatty item (total fat) or something filled with protein (protein). The averages of these attributes have been computed for each restaurant.
 
 ## Data Structure
+Data is organized by restaurant name. The following columns are included in this dataset: 
+* Company, Item, Calories, Calories From Fat, Total Fat(g), Saturated Fat(g), Cholesterol(mg), Solium(mg), Carbs(g), Fiber(g), Sugars(g), Protein(g), and Weight Watchers Points
+
+Conditional formatting has been applied to the dataset to determine what are the "best foods" to eat from each restaurant.
+* The sodium has a special column due to such high numbers. The average human should intake about 1,500 mg of sodium per day. Any item that had that amount of sodium or more has a red condition formatted to its text as a warning to all users.
+
+![image](https://github.com/ashley-ley/fast-food-nutrition/assets/132225987/1683c65c-c2f8-4aad-be98-15a9ebf6f1a7) 
+
 ![image](https://github.com/ashley-ley/fast-food-nutrition/assets/132225987/f35b7d7c-2962-45a6-bb38-4f273c85799a)
 
 The data is structured as follows:
